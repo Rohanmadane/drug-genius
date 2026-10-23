@@ -1,3 +1,9 @@
 streamlit
+requests
 py3Dmol
 stmol
+rdkit
+pandas
+joblib
+scikit-learn
+admet-ai
